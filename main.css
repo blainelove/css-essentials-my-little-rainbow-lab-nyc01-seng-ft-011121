@@ -12,7 +12,6 @@ div {
   border-right-color: transparent; /* the right side */
   border-bottom-color: transparent; /* and the bottom of the circle */
 }
-body{
   #red{
     border-top-color: #f00;
   }
@@ -34,4 +33,3 @@ body{
   #violet{
     border-top-color: #d300c9;
   }
-}
